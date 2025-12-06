@@ -1,0 +1,16 @@
+By using XP Search Assistant Rewritten, you accept the following license agreements:
+
+MASH - Microsoft Agent Scripting Helper
+Copyright (c) 1998-2008 by BellCraft Technologies, All rights reserved.
+http://www.bellcraft.com/mash
+
+License Agreement and Warranty Disclaimer
+
+As of February 14, 2008, MASH is now FREEWARE.
+
+This software and the associated documentation is provided for free.
+You may install and run it on any equipment you wish.
+
+You may not offer it for sale, or include it in distributions on public networks, or on any media sold for profit. You may not adapt, modify, decompile, disassemble, reverse engineer, translate or create any derivative works based upon the software, or adapt, modify, translate or create derivative works based upon the documentation. The software and documentation may not be sold for profit or incorporated in commercial products without the written permission of the copyright holder.
+
+This software is provided "AS IS". There is no warranty whatsoever. You assume the entire responsibility for any and all damages, liabilities or effects resulting directly or indirectly from downloading, installing, removing, using, or not using this software. By downloading or using this software you agree to be solely responsible for any and all damages of any kind whatsoever, including but not limited to actual and consequential damages, whether forseeaable or unforseeable. Furthermore, you agree by downloading and or using this software to hold the author harmless for any and all consequences, damages and liability of whatever kind which may result from your use, including attorney's fees and costs expended in defense of any claim resulting from your use.

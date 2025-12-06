@@ -1,0 +1,33 @@
+XP Search Assistant Rewritten 1.0
+---------------------------------
++ NEW: The Rover.acs is now updated to have a taskbar icon and a TTS engine and a custom word balloon
++ NEW: whack the icon and remember the icon now asks the user if they want to use imageres.dll (default), shell32.dll, or a custom DLL/EXE to pull icons from!
++ NEW: a huge wave of icons are approaching! whack the icon now has waves and every wave, a group of 3-12 icons will spawn!
++ Properties has been added to the context menu! Get the properties of any file in file explorer or search mode!
++ F2 works for renaming files and DEL for deleting files
++ Added safeguards to the Rename and Delete functions (just in case anyone actually does something stupid)
++ thanks to some dll magic, rover now autohides if another window is covering the XP search window!
++ rover now can utilize the sam reader properly with the new ACS
++ Bug fixes in the FCS engine
++ Fixed issue with search animation not playing in Frontier Agent/FCS mode
++ Fixed animation explorer not working in ACS mode
++ animations get added alphabetically in the animation explorer
++ Crash-proofed the character select menu some more
++ Program now automatically closes when the engine is changed or theme
++ Program now checks if the user is trying to search or use the address bar before the user presses enter
++ Click the Address preview now activates the search combobox at the top
++ Esc key now works for cancelling a search
++ magnifying glass now properly disappears when the program enters file explorer mode
++ stop button in the sam form now takes down the helicopter
++ fixed the stop button in sam reader not working for character voices
++ Frontier Agent updated to build 21
++ sound effects for whack the icon!
++ optimizations to the Luna theme
++ updated settings menu design
++ NEW: a better about box
++ ui adjustments
++ internal optimizations such as the search and cancel buttons being indicated as a Cancel or OK dialog result (just in case!)
++ removed up to date message box
++ magnifying glass now properly disappears when the program enters file explorer mode
+
+...and more!
