@@ -5,7 +5,7 @@
 
 !define APPNAME         "XP Search Assistant Rewritten"
 !define APPDIRNAME      "XP Search Assistant Rewritten"
-!define APPVERSION      "1.0"
+!define APPVERSION      "1.1"
 !define PUBNAME         "TMAFE"
 !define WEBSITE         "https://tmafe.com"
 !define UNKEY           "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\${APPNAME}"
